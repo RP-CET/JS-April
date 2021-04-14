@@ -2,6 +2,9 @@
 
 # Introduction to Web Scripting: PHP and JavaScript (April 2021)
 
+## Bootstrap template
+https://drive.google.com/file/d/1VU_TzFL7L-b3naX5wU2pLCkNJGomnhRi/view?usp=sharing
+
 ## Course materials are contained in this repository
 
 ## Netbean IDE
