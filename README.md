@@ -13,3 +13,5 @@ https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/12.0/netbeans-12.0-bin.z
 ## Web Server bundle
 https://www.apachefriends.org/index.html 
 
+## PHP Online Manual
+https://www.php.net/manual/en/
